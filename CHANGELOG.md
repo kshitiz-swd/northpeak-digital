@@ -1,5 +1,19 @@
 # Optimization Changelog
 
+## Lighthouse reports
+
+### Mobile, before font fix (87)
+
+![Mobile before](lighthouse/mobile-before.png)
+
+### Mobile, after font fix
+
+![Mobile after](lighthouse/mobile-after.png)
+
+### Desktop (99)
+
+![Desktop](lighthouse/desktop.png)
+
 ## What I changed and why
 
 ### 1. Font loading (first attempt)
