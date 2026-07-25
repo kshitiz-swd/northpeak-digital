@@ -2,6 +2,9 @@
 
 A one-page agency site. Next.js 15, Tailwind CSS 4, JavaScript.
 
+## 🌐 Live Demo
+-Ï https://northpeakdigitall.netlify.app/
+
 ## Run it
 
 ```
